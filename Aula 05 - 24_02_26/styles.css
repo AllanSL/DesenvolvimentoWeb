@@ -1,0 +1,45 @@
+/* CSS externo para Aula 05 */
+
+body {
+    background: #f9f9f9;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #222;
+    color: #fff;
+    padding: 16px 0;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 24px auto;
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+}
+
+footer {
+    background: #222;
+    color: #fff;
+    text-align: center;
+    padding: 12px 0;
+    margin-top: 32px;
+}
+
+section {
+    margin-bottom: 32px;
+}
+
+a {
+    color: #1a237e;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #3949ab;
+}

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagens responsivas</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Imagens responsivas</h1>
+        <nav><a href="menu.html">Menu principal</a></nav>
+    </header>
+    <nav>
+        <a href="index.html">Menu</a>
+    </nav>
+    <main>
+        <h2>Imagens responsivas com picture</h2>
+        <p><strong>Dica:</strong> Redimensione a janela do navegador para ver a imagem mudar conforme o tamanho da tela!</p>
+        <picture>
+            <!-- Para telas grandes (desktop) -->
+            <source media="(min-width: 1024px)" srcset="Arquivos/Imagens/corinthians1.png">
+            <!-- Para tablets -->
+            <source media="(min-width: 600px)" srcset="Arquivos/Imagens/corinthians2.png">
+            <!-- Para celulares -->
+            <img src="Arquivos/Imagens/corinthians3.png" alt="Imagem responsiva" style="width:100%;max-width:400px;">
+        </picture>
+    </main>
+    <footer>
+        <p>Desenvolvimento Web - Aula 05</p>
+    </footer>
+</body>
+</html>

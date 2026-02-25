@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS (inline, inbloco, externo)</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        h1 { color: darkgreen; }
+        h2 { color: #333366; }
+        section { margin-bottom: 24px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>CSS (inline, inbloco, externo)</h1>
+        <nav><a href="menu.html">Menu principal</a></nav>
+    </header>
+    <main>
+        <section>
+            <h2>CSS externo</h2>
+            <p>Este site utiliza um arquivo externo chamado <code>styles.css</code> para estilização global.</p>
+        </section>
+        <section>
+            <h2>CSS inbloco (interno)</h2>
+            <p>Veja o estilo aplicado ao <code>&lt;h1&gt;</code> e <code>&lt;h2&gt;</code> nesta página, definido dentro da tag <code>&lt;style&gt;</code> no <code>&lt;head&gt;</code>.</p>
+        </section>
+        <section>
+            <h2>CSS inline</h2>
+            <p style="color: blue; font-weight: bold; background: #f0f0f0; padding: 8px; border-radius: 4px;">Este parágrafo usa CSS inline para mudar cor, fundo, peso da fonte e borda.</p>
+        </section>
+    </main>
+    <footer>
+        <p>Desenvolvimento Web - Aula 05</p>
+    </footer>
+</body>
+</html>
