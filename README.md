@@ -14,6 +14,14 @@ Centralizar materiais, exercícios e exemplos práticos ao longo da disciplina, 
 		- `index.html` – conteúdo básico da primeira aula
 		- `README.md` – resumo e materiais da aula
 
+## 📅 Aulas já disponíveis
+
+- Aula 01 – Introdução ao HTML
+- Aula 02 – Listas, links e imagens
+- Aula 03 – Estruturação e navegação
+- Aula 05 – Modularização, navegação e exemplos práticos
+- Aula 06 – Elementos, imagem como título, botão JS para trocar cor de parágrafo
+
 ## 🧭 Como navegar
 
 - Abra a pasta da aula desejada e visualize os arquivos HTML/CSS/JS diretamente no navegador.
