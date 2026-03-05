@@ -15,8 +15,7 @@ Além disso, foi passado um trabalho prático em HTML e CSS:
 - Professor recomendou o site <https://www.iloveimg.com/pt> para redimensionar e tratar as imagens.
 
 ### Estrutura dos Arquivos
-- `index.html`: página principal da aula, onde o trabalho será desenvolvido.
-- `styles.css`: folha de estilos externa para aplicar CSS à página.
+
 - `Alfaiate_Voador_Trabalho/`: contém os recursos fornecidos (imagens, textos) para o exercício.
 
 ### Navegação
