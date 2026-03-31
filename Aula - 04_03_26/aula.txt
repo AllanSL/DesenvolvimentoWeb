@@ -1,0 +1,4 @@
+Importar e utilizar o bootstrap;
+Utilização de linhas e colunas, inclusive encadeadas para modelagem do leiaute da página;
+
+Ele deixou um leiaute de formulário para nós tentarmos replicar para a proxima aula nós seguirmos para a parte de responsividade

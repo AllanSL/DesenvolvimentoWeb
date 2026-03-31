@@ -1,0 +1,5 @@
+/* estilos específicos para popup */
+body { font-family: Arial, sans-serif; background:#fff; }
+main { width:70%; margin:40px auto; text-align:center; }
+#nome { padding:8px; width:60%; margin: 12px 0; }
+#btnMostrar { display:inline-block; }

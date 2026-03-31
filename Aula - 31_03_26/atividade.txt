@@ -1,0 +1,4 @@
+Crie um calculadora básica onde o usuario irá digitar dois valores e escolher qual operação matemática será realizada (SOMA,SUBTRAÇÃO, MULTIPLICAÇÃO,DIVISÃO).
+
+****OBS:
+Para a criação do Layout do projeto usar HTML com CSS ou Bootstrap
